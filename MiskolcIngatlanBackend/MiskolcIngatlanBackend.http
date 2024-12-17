@@ -1,0 +1,6 @@
+@MiskolcIngatlanBackend_HostAddress = http://localhost:5181
+
+GET {{MiskolcIngatlanBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
